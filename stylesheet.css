@@ -1,0 +1,23 @@
+body
+{
+    background-color: blueviolet
+}
+h1
+{
+    color: aqua
+}
+h1
+{
+    font-size: 40px;
+}
+p
+{
+    font-size: 20px;
+}
+button
+{
+    background-position: 0px;
+    font-size: 15px;
+    padding-right: 10px;
+    margin-left: 5px; 
+}
